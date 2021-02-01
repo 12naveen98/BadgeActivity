@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery Challenge</title>
+    <link rel="stylesheet" href="index.css">
+    <style>
+        table, th, td {
+          border: 1px solid black;
+        }
+        </style>
+</head>
+<body>
+    <div id=demo>
+        <h1 id=header>Click on the button for grocery list</h1>
+        <h4 id=head>Data wil be shown as seen in the example in red colour.</h4>
+        <h5 id=hd>No stands for number,pkt stands for packet.</h5>
+        <table id=tabular>
+            <tr>
+                <th>Sl.No</th>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Unit</th>
+                <th>Department</th>
+                <th>Notes</th>
+            </tr>
+            <tr>
+                <td id=slno style="color: red;"> 1</td>
+                <td id=name style="color: red;">biscuit</td>
+                <td id=qty style="color: red;">1</td>
+                <td id=unit style="color: red;">No</td>
+                <td id=dept style="color: red;">snacks</td>
+                <td id=notes style="color: red;">hide and seek</td>
+            </tr>
+        </table>
+    <button id=btn onclick="ajax();">Click Me</button>
+    </div>   
+    <script src="ajax.js"></script>
+</body>
+</html>

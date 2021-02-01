@@ -1,0 +1,86 @@
+{
+   "list":[ 
+       {
+    "serialNumber":"1",
+    "name":"Pen",
+    "quantity":"1",
+    "unit":"No",
+    "department":"Stationary",
+    "notes":"red color"
+},
+{
+    "serialNumber":"2",
+    "name":"Pencil",
+    "quantity":"4",
+    "unit":"No",
+    "department":"Stationary",
+    "notes":"HB2"
+},
+{
+    "serialNumber":"3",
+    "name":"diaryMilk",
+    "quantity":"1",
+    "unit":"No",
+    "department":"Chocolates",
+    "notes":"silk"
+},
+{
+    "serialNumber":"4",
+    "name":"Towel",
+    "quantity":"1",
+    "unit":"1",
+    "department":"Bathroom",
+    "notes":"long"
+},
+{
+    "serialNumber":"5",
+    "name":"mouse",
+    "quantity":"1",
+    "unit":"No",
+    "department":"Electronics",
+    "notes":"bluetooth"
+},
+{
+    "serialNumber":"6",
+    "name":"carrot",
+    "quantity":"1",
+    "unit":"kg",
+    "department":"Vegetables",
+    "notes":"fresh"
+},
+{
+    "serialNumber":"7",
+    "name":"meat",
+    "quantity":"1",
+    "unit":"kg",
+    "department":"Meats",
+    "notes":"chicken"
+},
+{
+    "serialNumber":"8",
+    "name":"Pan",
+    "quantity":"1",
+    "unit":"No",
+    "department":"Utensils",
+    "notes":"frying pan"
+},
+{
+    "serialNumber":"9",
+    "name":"Potato",
+    "quantity":"1",
+    "unit":"kg",
+    "department":"Vegetables",
+    "notes":"fresh"
+},
+{
+    "serialNumber":"10",
+    "name":"noodles",
+    "quantity":"1",
+    "unit":"pkt",
+    "department":"Food",
+    "notes":"sunfeast"
+}
+   ]
+}
+
+

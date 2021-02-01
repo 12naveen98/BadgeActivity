@@ -1,0 +1,32 @@
+#demo {
+border:2px solid red;
+margin: 10%;
+}
+
+#header{
+    margin: 5%;
+    text-align: center;
+}
+
+#head{
+    margin: 2%;
+    text-align: center;
+}
+
+#tabular{
+    margin-left: 30%;
+    border:2px solid blue;
+    font-size: larger;
+}
+
+#btn{
+    margin-left: 42%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    width: 4cm;
+    height: 1.5cm;
+}
+
+#hd{
+    margin-left: 40%;
+}
